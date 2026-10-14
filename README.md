@@ -162,17 +162,19 @@ projeto-itbi-cin0208/
 │   ├── raw/
 │   │   └── ITBI_Recife_2025.csv
 │   └── processed/
-│       └── .gitkeep
+│       ├── (...)
+│       └── (...)
 ├── notebooks/
 │   ├── 01a_eda_alvo.ipynb
 │   ├── 01b_eda_numericas.ipynb
 │   ├── 01c_eda_categoricas.ipynb
 │   └── 04_pipeline_experimentos.ipynb
 ├── src/
+│   ├── (...)
 │   └── carregar_dados.py
 ├── resultados/
-│   ├── graficos/
-│   └── tabelas/
+│   ├── (...)
+│   └── (...)
 ├── Docs/
 │   ├── decisoes.md
 │   └── cronograma.md
