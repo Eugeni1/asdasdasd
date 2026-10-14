@@ -34,7 +34,6 @@
 * [Arquitetura do Projeto](#arquitetura-do-projeto)
 * [Dataset](#dataset-e-contexto)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
-* [Cronograma](#cronograma)
 * [Equipe](#equipe-desenvolvimento)
 
 ---
@@ -244,27 +243,6 @@ Veja `requirements.txt` para a lista completa. Principais pacotes:
 - **matplotlib** (3.9.0): Visualizações estáticas
 - **seaborn** (0.13.2): Visualizações estatísticas
 - **jupyter** (1.0.0): Ambiente interativo para análise
-
-<a id="cronograma"></a>
-<h2 style="border-bottom: none !important; padding-bottom: 0 !important;"> Cronograma e Etapas</h2>
-
-### Checkpoint 1 — 15/10/2026
-**Objetivo:** Análise Exploratória completa com distribuições, correlações e insights
-
-| Entregável | Responsável | Status |
-|---|---|---|
-| `01a_eda_alvo.ipynb` — EDA da variável alvo (`valor_avaliacao`) | Eugeni1 | ⏳ Em progresso |
-| `01b_eda_numericas.ipynb` — EDA das variáveis numéricas | CaioC11 | ⏳ Em progresso |
-| `01c_eda_categoricas.ipynb` — EDA das categóricas e faltantes | GabRamosBr | ⏳ Em progresso |
-| `04_pipeline_experimentos.ipynb` — Pipeline + baseline + primeiro kNN | NyckolasJGF | ⏳ Em progresso |
-
-### Acompanhamento Final — 19/11/2026
-Revisão de metodologia, ajuste de hyperparâmetros e análise de resultados preliminares.
-
-### Apresentação Final — 26/11/2026
-Apresentação consolidada com resultados finais, conclusões e recomendações.
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:FF8C00,100:FF6B35&v=99&version=3&cache=1" width="100%" />
